@@ -8,7 +8,8 @@
 
 <br><br>
 
-<a href="https://t.me/TapeXSec"><img src="https://img.shields.io/badge/Telegram-TapeXSec-0d1117?style=for-the-badge&logo=telegram&logoColor=8FD9B6&labelColor=0d1117" alt="Telegram"></a>
+<a href="https://t.me/TapeXSec"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=8FD9B6" alt="Telegram"></a>
+<a href="https://www.youtube.com/@TapeXSec"><img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=8FD9B6" alt="YouTube"></a>
 
 </div>
 
